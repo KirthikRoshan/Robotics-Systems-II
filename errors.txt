@@ -1,0 +1,1 @@
+I had some errors coming up with end arguments in the code and a few more errors in MAV file equations. I also failed to open all of the necessary files from the same folder. This resulted in further complications as I had to debug the existing code and re-open files from the same folder multiple times.
